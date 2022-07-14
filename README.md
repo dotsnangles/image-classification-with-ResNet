@@ -1,4 +1,4 @@
-# image-classification-with-resnet
+# image-classification-with-ResNet
 
 ### 구성원  
 
